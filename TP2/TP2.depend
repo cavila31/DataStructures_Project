@@ -1,0 +1,280 @@
+# depslib dependency file v1.0
+1416699623 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\src\asignacion.cpp
+	"asignacion.h"
+	"stdlib.h"
+
+1417815945 
+
+1417635235 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\include\asignacion.h
+	"grafo_t.h"
+	<iostream>
+	<limits.h>
+
+1417395510 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\include\grafo_t.h
+	<iostream>
+	"cajaMatriz.h"
+
+1416112244 z.h"
+
+1415480016 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\include\cajamatriz.h
+
+1416112244 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\src\cajamatriz.cpp
+	"cajaMatriz.h"
+
+1417471950 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\src\circuito_hamilton .cpp
+	"circuito_hamilton .h"
+
+1417746650 hamilton .h"
+
+1417395977 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\include\circuito_hamilton .h
+	"grafo_t.h"
+	<iostream>
+	<list>
+	"Diccionario.h"
+
+1417239100 io.h"
+
+1417238269 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\include\diccionario.h
+	"grafo_t.h"
+	<iostream>
+	<list>
+
+1417239100 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\src\diccionario.cpp
+	"Diccionario.h"
+
+1417634403 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\src\distribucion.cpp
+	"distribucion.h"
+
+1417634403 ion.h"
+
+1417634457 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\include\distribucion.h
+	<limits.h>
+	<iostream>
+
+1417471128 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\src\grafo_t.cpp
+	"grafo_t.h"
+
+1417726862 "
+
+1417633895 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\src\mochila.cpp
+	"mochila.h"
+	<iostream>
+
+1417633826 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\include\mochila.h
+
+1415457066 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\src\visualizador.cpp
+	"visualizador.h"
+
+1415457066 dor.h"
+
+1415459978 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\include\visualizador.h
+
+1417634640 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\tp2.5\tp2\main.cpp
+	<iostream>
+	"visualizador.h"
+	"asignacion.h"
+	"distribucion.h"
+	"Diccionario.h"
+	"grafo_t.h"
+	"circuito_hamilton .h"
+
+1417841490 source:c:\users\daniloj\desktop\tp2\main.cpp
+	<iostream>
+	"visualizador.h"
+	"asignacion.h"
+	"distribucion.h"
+	"Diccionario.h"
+	"grafo_t.h"
+	"circuito_hamilton.h"
+	"mochila.h"
+
+1415459978 c:\users\daniloj\desktop\tp2\include\visualizador.h
+
+1417821634 c:\users\daniloj\desktop\tp2\include\asignacion.h
+	"grafo_t.h"
+	<iostream>
+	<limits.h>
+
+1417395510 c:\users\daniloj\desktop\tp2\include\grafo_t.h
+	<iostream>
+	"cajaMatriz.h"
+
+1415480016 c:\users\daniloj\desktop\tp2\include\cajamatriz.h
+
+1417840765 c:\users\daniloj\desktop\tp2\include\distribucion.h
+	<limits.h>
+	<iostream>
+
+1417238268 c:\users\daniloj\desktop\tp2\include\diccionario.h
+	"grafo_t.h"
+	<iostream>
+	<list>
+
+1417746490 c:\users\daniloj\desktop\tp2\include\circuito_hamilton .h
+	"grafo_t.h"
+	<iostream>
+	<list>
+	"Diccionario.h"
+	<stack>
+
+1417839284 source:c:\users\daniloj\desktop\tp2\src\asignacion.cpp
+	"asignacion.h"
+	"stdlib.h"
+
+1416112244 source:c:\users\daniloj\desktop\tp2\src\cajamatriz.cpp
+	"cajaMatriz.h"
+
+1417239100 source:c:\users\daniloj\desktop\tp2\src\diccionario.cpp
+	"Diccionario.h"
+
+1417841021 source:c:\users\daniloj\desktop\tp2\src\distribucion.cpp
+	"distribucion.h"
+
+1417633894 source:c:\users\daniloj\desktop\tp2\src\mochila.cpp
+	"mochila.h"
+	<iostream>
+
+1417633826 c:\users\daniloj\desktop\tp2\include\mochila.h
+
+1415457066 source:c:\users\daniloj\desktop\tp2\src\visualizador.cpp
+	"visualizador.h"
+
+1417746650 source:c:\users\daniloj\desktop\tp2\src\circuito_hamilton .cpp
+	"circuito_hamilton .h"
+
+1417726862 source:c:\users\daniloj\desktop\tp2\src\grafo_t.cpp
+	"grafo_t.h"
+
+1417815955 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\main.cpp
+	<iostream>
+	"visualizador.h"
+	"asignacion.h"
+	"distribucion.h"
+	"Diccionario.h"
+	"grafo_t.h"
+	"circuito_hamilton .h"
+
+1415459978 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\include\visualizador.h
+
+1417816041 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\include\asignacion.h
+	"grafo_t.h"
+	<iostream>
+	<limits.h>
+
+1417395510 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\include\grafo_t.h
+	<iostream>
+	"cajaMatriz.h"
+
+1415480016 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\include\cajamatriz.h
+
+1417634457 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\include\distribucion.h
+	<limits.h>
+	<iostream>
+
+1417238269 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\include\diccionario.h
+	"grafo_t.h"
+	<iostream>
+	<list>
+
+1417746491 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\include\circuito_hamilton .h
+	"grafo_t.h"
+	<iostream>
+	<list>
+	"Diccionario.h"
+	<stack>
+
+1416112244 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\src\cajamatriz.cpp
+	"cajaMatriz.h"
+
+1417746650 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\src\circuito_hamilton .cpp
+	"circuito_hamilton .h"
+
+1417239100 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\src\diccionario.cpp
+	"Diccionario.h"
+
+1417634403 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\src\distribucion.cpp
+	"distribucion.h"
+
+1417726862 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\src\grafo_t.cpp
+	"grafo_t.h"
+
+1417633895 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\src\mochila.cpp
+	"mochila.h"
+	<iostream>
+
+1417633826 c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\include\mochila.h
+
+1415457066 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\src\visualizador.cpp
+	"visualizador.h"
+
+1417815945 source:c:\users\carolina\documents\2nd year 2014\ii semestre\estruct & algort\t2.8\tp2\src\asignacion.cpp
+	"asignacion.h"
+	"stdlib.h"
+
+1417821635 source:/home/havok/Desktop/TP2/src/asignacion.cpp
+	"asignacion.h"
+	"stdlib.h"
+
+1417821635 /home/havok/Desktop/TP2/include/asignacion.h
+	"grafo_t.h"
+	<iostream>
+	<limits.h>
+
+1417395510 /home/havok/Desktop/TP2/include/grafo_t.h
+	<iostream>
+	"cajaMatriz.h"
+
+1415480016 /home/havok/Desktop/TP2/include/cajaMatriz.h
+
+1416112244 source:/home/havok/Desktop/TP2/src/cajaMatriz.cpp
+	"cajaMatriz.h"
+
+1417746650 source:/home/havok/Desktop/TP2/src/circuito_hamilton .cpp
+	"circuito_hamilton .h"
+
+1417746491 /home/havok/Desktop/TP2/include/circuito_hamilton .h
+	"grafo_t.h"
+	<iostream>
+	<list>
+	"Diccionario.h"
+	<stack>
+
+1417238269 /home/havok/Desktop/TP2/include/Diccionario.h
+	"grafo_t.h"
+	<iostream>
+	<list>
+
+1417239100 source:/home/havok/Desktop/TP2/src/Diccionario.cpp
+	"Diccionario.h"
+
+1417634403 source:/home/havok/Desktop/TP2/src/distribucion.cpp
+	"distribucion.h"
+
+1417634457 /home/havok/Desktop/TP2/include/distribucion.h
+	<limits.h>
+	<iostream>
+
+1417726862 source:/home/havok/Desktop/TP2/src/grafo_t.cpp
+	"grafo_t.h"
+
+1417633895 source:/home/havok/Desktop/TP2/src/mochila.cpp
+	"mochila.h"
+	<iostream>
+
+1417633826 /home/havok/Desktop/TP2/include/mochila.h
+
+1415457066 source:/home/havok/Desktop/TP2/src/visualizador.cpp
+	"visualizador.h"
+
+1415459978 /home/havok/Desktop/TP2/include/visualizador.h
+
+1417841507 c:\users\daniloj\desktop\tp2\include\circuito_hamilton.h
+	"grafo_t.h"
+	<iostream>
+	<list>
+	"Diccionario.h"
+	<stack>
+
+1417841518 source:c:\users\daniloj\desktop\tp2\src\circuito_hamilton.cpp
+	"circuito_hamilton.h"
+
